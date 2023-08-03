@@ -1,0 +1,48 @@
+.container{
+    margin-top: 170px;
+   padding-left: 10%;
+}
+.form-group{
+    padding: 3%;
+    width: 55%;
+}
+.container #lnkforget{
+    float: right; 
+    margin-right: 5px;
+    font-size: 13px;
+    color: #000000;
+    text-decoration: none;
+    }
+button{
+    width: 48%;
+    margin-left: 3%;
+    margin-top: 2%;
+   
+}
+.btn{
+    background-color: #E34C26;
+    color: #FFFFFF;
+}
+.container img{
+    margin-left: 8%;
+}
+#message{
+    margin-left: 3%;
+    margin-top: 2%;
+    font-size: 12px;
+}
+#register_link{
+    padding-left: 2%;
+    color: #000000;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 500;
+}
+hr{
+    width: 52%;
+}
+.social{
+    display: inline-block;
+    font-size: 25px;
+    margin-left: 15px;
+}
